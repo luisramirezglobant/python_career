@@ -2,7 +2,7 @@
 > Decorators provide a way to wrap functions with extra functionality without directly changing the original function's code.
 
 ## Fundamentals
-- Python has the ability to treat **functions** as ==first-class== objects (i.e., you can pass them as arguments to other functions, return them from functions, and assign them to variables).
+- Python has the ability to treat **functions** as **first-class** objects (i.e., you can pass them as arguments to other functions, return them from functions, and assign them to variables).
 - A **closure** is a function that retains access to variables or arguments from his definition context, this is translated to a function defined inside another and therefore the inner functions has access to all the argumets *(function parameters)* and variables that are available in a previous scope
 
 ## What are Decorators?
